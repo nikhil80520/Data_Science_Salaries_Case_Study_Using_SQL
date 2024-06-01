@@ -1,1 +1,1 @@
-# Data_Science_Salaries_Analysis_Using_SQL
+# Data_Science_Salaries_Case_Study_Using_SQL
